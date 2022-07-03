@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
 <div align="center">
   <img src="./img/tag.png"/>
 </div>
@@ -22,7 +21,7 @@ I'm a full-stack developer, passionate about technology and motivated by challen
 
 - :rocket: Work as a Softwere Engineer on Credihome By Loft.
 - :heart_eyes: In my free time a love to learning  new technologies and try new things.
-- <i class="devicon-arduino-plain"></i> started as a arduino enthusiastic.
+- <img align="center" alt="arduino" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg"> I started as a arduino enthusiastic and become a developer.
 
 ---
 

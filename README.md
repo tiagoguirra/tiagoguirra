@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./img/tag.png"/>
+  <img alt="TAG Developer logo" src="./img/tag.png"/>
 </div>
 
 

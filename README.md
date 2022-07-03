@@ -55,7 +55,7 @@ I'm a full-stack developer, passionate about technology and motivated by challen
 ---
 
 ### :fire: My Stats :
-<div style="display: flex; justify-content: center;flex-wrap: wrap;align-items: flex-start;">
+<div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tiagoguirra&theme=dark&hide_border=true)](https://git.io/streak-stats)
 

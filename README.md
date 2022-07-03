@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="TAG Developer logo" src="./img/tag-verde-branco.png#gh-light-mode-only" width="240"/>
+  <img alt="TAG Developer logo" src="./img/tag-verde-branco.png#gh-dark-mode-only" width="240"/>
   <img alt="TAG Developer logo" src="./img/tag-verde-preto.png#gh-light-mode-only" width="240"/>
 </div>
 

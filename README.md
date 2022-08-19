@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/tiagoguirra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:guilhermetadashii.dev@gmail.com"  target="_blank">
+  <a href="mailto:tiagobg15@gmail.com"  target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:tiagobg15@gmail.com" alt="Gmail"/>
   </a>
 </div>
